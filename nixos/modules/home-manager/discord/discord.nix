@@ -3,7 +3,7 @@
     lib,
     ...
 }: {
-    environment.systemPackages = [
+    home.packages = [
         pkgs.vesktop
     ];
 }
