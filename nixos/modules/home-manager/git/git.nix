@@ -2,12 +2,13 @@
     pkgs,
     lib,
     ...
-}:
-{
+}: let
+    name = "LeikRad";
+in {
     programs.git = {
         enable = true;
         userEmail = "bernardo.figueiredo17.102@gmail.com";
-        userName = "LeikRad";
+        userName = name;
     };
     programs.ssh = {
         enable = true;
