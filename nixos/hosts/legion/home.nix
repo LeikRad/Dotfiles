@@ -10,6 +10,7 @@
     ../../modules/home-manager/git/git.nix
     ../../modules/home-manager/discord/discord.nix
     ../../modules/home-manager/moonlight/moonlight.nix
+    ../../modules/home-manager/tailscale/tailscale.nix
   ];
 
   home.username = "leikrad";
