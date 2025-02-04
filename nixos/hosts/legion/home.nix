@@ -8,6 +8,7 @@
   imports = [
     ../../modules/home-manager/vscode/vscode.nix
     ../../modules/home-manager/git/git.nix
+    ../../modules/home-manager/discord/discord.nix
   ];
 
   home.username = "leikrad";
