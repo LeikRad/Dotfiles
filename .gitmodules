@@ -1,0 +1,3 @@
+[submodule "kabegami"]
+	path = kabegami
+	url = git@github.com:LeikRad/kabegami.git
