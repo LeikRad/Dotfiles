@@ -11,6 +11,7 @@
     ../../modules/home-manager/discord/discord.nix
     ../../modules/home-manager/moonlight/moonlight.nix
     ../../modules/home-manager/spotify/spotify.nix
+    ../../modules/home-manager/figma/figma.nix
   ];
 
   home.username = "leikrad";
