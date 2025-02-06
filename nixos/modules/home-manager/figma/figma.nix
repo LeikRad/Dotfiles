@@ -4,6 +4,6 @@
     ...
 }: {
     home.packages = [
-        pkgs.figma
+        pkgs.figma-linux
     ];
 }
