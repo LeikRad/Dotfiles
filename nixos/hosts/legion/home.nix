@@ -13,7 +13,7 @@
     ../../modules/home-manager/spotify/spotify.nix
     ../../modules/home-manager/figma/figma.nix
     ../../modules/home-manager/ghostty/ghostty.nix
-    ../../modul/home-manager/obsidian/obsidian.nix
+    ../../modules/home-manager/obsidian/obsidian.nix
   ];
 
   home.username = "leikrad";
